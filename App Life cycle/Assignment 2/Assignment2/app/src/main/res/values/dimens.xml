@@ -1,0 +1,15 @@
+<!--
+  ~ Copyright (c) 2017. Krishna Prasad Kuchur,
+  ~
+  ~ This project is meant only for the use and assessment by Professor Timothy Lindquist of Arizona State Univeristy, for the course SER 423.
+  ~
+  ~ @author Krishna Prasad Kuchur  kkuchur@asu.deu
+  ~
+  ~ @version January 2017
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
